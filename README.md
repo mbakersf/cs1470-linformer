@@ -8,7 +8,9 @@ Transformer models are a very popular deep learning architecture used across sev
 
 ## Links:
 Example checkpoint we created: https://drive.google.com/file/d/1L52rfRpmpIZ7-JTZAj78QAaxmDCj561f/view
+
 Fairseq implementation: https://github.com/facebookresearch/fairseq
+
 Original paper: https://arxiv.org/pdf/2006.04768
 
 ## How to run the code:
