@@ -8,3 +8,6 @@ Transformer models are a very popular deep learning architecture used across sev
 
 ## Link
 Example checkpoint created: https://drive.google.com/file/d/1L52rfRpmpIZ7-JTZAj78QAaxmDCj561f/view
+
+## How to run the code:
+Open the template.ipynb file and run the setup blocks. Then, run the section of your desired dataset!
